@@ -1,7 +1,7 @@
 package TestTask;
 import java.util.Scanner;
 
-public class Shorokhov_Nikita_java {
+public class Hello_Java {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
